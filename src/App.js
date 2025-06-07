@@ -5,7 +5,7 @@ import { supabase } from './supabaseClient';
 import Login from './components/Login';
 import Dashboard from './components/Dashboard';
 import TaskForm from './components/TaskForm';
-import Calendar from './components/Calendar';
+import Calendar from './components/CalendarView';
 import Statistics from './components/Statistics';
 import Settings from './components/Settings';
 import Sidebar from './components/Sidebar';
